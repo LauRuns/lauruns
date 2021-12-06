@@ -3,7 +3,7 @@
 ### I'm Laurens, a software developer from the Netherlands 🇳🇱
 
 - 🔭 I’m currently working on finishing my Computer Sience Degree
-- 🌱 I’m currently learning more about Docker
+- 🌱 I’m currently learning more about Linux, Docker and servers
 - 👯 I’m looking to collaborate on Raspberry Pi projects
 <!--
 **LauRuns/lauruns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,14 +19,21 @@ Here are some ideas to get you started:
 
 ## ⚙️ Skills
 
-```typescript
+```javascript
 import { Skills } from 'laurens/skills';
 import { Interests } from 'laurens/interests';
 
 const laurens = {
 	pronouns: 'He' | 'Him',
 	code: ['Javascript', 'Typescript', 'Python', 'SQL'],
-	askMeAbout: ['Webdev', 'tech', 'networking', 'raspberry pi', 'Apple'],
+	askMeAbout: [
+		'Webdev',
+		'tech',
+		'networking',
+		'Raspberry Pi',
+		'Apple',
+		'Linux'
+	],
 	technologies: {
 		frontEnd: {
 			gen: ['HTML5', 'CSS3', 'SASS'],
@@ -45,7 +52,14 @@ const laurens = {
 			frontEnd: ['Single page applications', 'Angular'],
 			backEnd: ['Nestjs'],
 			database: ['mongoDB'],
-			misc: ['Raspberry Pi', 'Nginx', 'Networking', 'Docker']
+			misc: [
+				'Raspberry Pi',
+				'Nginx',
+				'networking',
+				'Docker',
+				'Linux',
+				'servers'
+			]
 		}
 	}
 };
