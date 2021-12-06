@@ -30,13 +30,13 @@ const laurens = {
   technologies: {
     frontEnd: {
       gen: ["HTML5", "CSS3", "SASS"],
-      js: ["Angular", "React"]
+      js: ["Angular", "React"],
     }
     backEnd: {
       js: ["Node", "Express", "Nestjs"],
     },
     mobileApp: {
-      js: ["ReactNative"]
+      js: ["ReactNative"],
     },
     devOps: ["Github", "Docker", "Nginx"],
     databases: ["mongoDB", "MySQL", "PostgreSQL"],
