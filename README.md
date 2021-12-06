@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Laurens, a software developen from the Netherlands 🇳🇱
+### I'm Laurens, a software developen from the Netherlands 🇳🇱
 
 - 🔭 I’m currently working on finishing my Computer Sience Degree
 - 🌱 I’m currently learning more about Docker
