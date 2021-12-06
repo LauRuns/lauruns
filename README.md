@@ -42,10 +42,10 @@ const laurens = {
 		databases: ['mongoDB', 'MySQL', 'PostgreSQL'],
 		architecture: ['Single page applications', 'Progressive web applications'],
 		currentFocus: {
-			frontEnd: ['Single page applications', 'Angular', 'Docker'],
+			frontEnd: ['Single page applications', 'Angular'],
 			backEnd: ['Nestjs'],
 			database: ['mongoDB'],
-			misc: ['Raspberry Pi', 'Nginx', 'Networking']
+			misc: ['Raspberry Pi', 'Nginx', 'Networking', 'Docker']
 		}
 	}
 };
