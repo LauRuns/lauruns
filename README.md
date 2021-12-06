@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## ⚙️ Skills
 
-```
+```typescript
 import { Skills } from 'laurens/skills';
-import { Interests } from 'laurens/interests;
+import { Interests } from 'laurens/interests';
 
-cont laurens = {
+const laurens = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Typescript", "Python", "SQL"],
   askMeAbout: ["Webdev", "tech", "networking", "raspberry pi", "Apple"],
