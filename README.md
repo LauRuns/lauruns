@@ -42,7 +42,7 @@ const laurens = {
 		databases: ['mongoDB', 'MySQL', 'PostgreSQL'],
 		architecture: ['Single page applications', 'Progressive web applications'],
 		currentFocus: {
-			frontEnd: ['Single page applications', 'Docker'],
+			frontEnd: ['Single page applications', 'Angular', 'Docker'],
 			backEnd: ['Nestjs'],
 			database: ['mongoDB'],
 			misc: ['Raspberry Pi', 'Nginx', 'Networking']
