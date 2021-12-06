@@ -24,30 +24,29 @@ import { Skills } from 'laurens/skills';
 import { Interests } from 'laurens/interests';
 
 const laurens = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Typescript", "Python", "SQL"],
-  askMeAbout: ["Webdev", "tech", "networking", "raspberry pi", "Apple"],
-  technologies: {
-    frontEnd: {
-      gen: ["HTML5", "CSS3", "SASS"],
-      js: ["Angular", "React"],
-    }
-    backEnd: {
-      js: ["Node", "Express", "Nestjs"],
-    },
-    mobileApp: {
-      js: ["ReactNative"],
-    },
-    devOps: ["Github", "Docker", "Nginx"],
-    databases: ["mongoDB", "MySQL", "PostgreSQL"],
-    architecture: ["Single page applications", "Progressive web applications"],
-    currentFocus: {
-      frontEnd: ["Single page applications", "Docker"],
-      backEnd: ["Nestjs"],
-      database: ["mongoDB"],
-      misc: ["Raspberry Pi", "Nginx", "Networking"]
-    }
-  }
-}
-
+	pronouns: 'He' | 'Him',
+	code: ['Javascript', 'Typescript', 'Python', 'SQL'],
+	askMeAbout: ['Webdev', 'tech', 'networking', 'raspberry pi', 'Apple'],
+	technologies: {
+		frontEnd: {
+			gen: ['HTML5', 'CSS3', 'SASS'],
+			js: ['Angular', 'React']
+		},
+		backEnd: {
+			js: ['Node', 'Express', 'Nestjs']
+		},
+		mobileApp: {
+			js: ['ReactNative']
+		},
+		devOps: ['Github', 'Docker', 'Nginx'],
+		databases: ['mongoDB', 'MySQL', 'PostgreSQL'],
+		architecture: ['Single page applications', 'Progressive web applications'],
+		currentFocus: {
+			frontEnd: ['Single page applications', 'Docker'],
+			backEnd: ['Nestjs'],
+			database: ['mongoDB'],
+			misc: ['Raspberry Pi', 'Nginx', 'Networking']
+		}
+	}
+};
 ```
