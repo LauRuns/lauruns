@@ -1,16 +1,53 @@
-### Hi there 👋
+# Hi there 👋
 
+I'm Laurens, a software developen from the Netherlands 🇳🇱
+
+- 🔭 I’m currently working on finishing my Computer Sience Degree
+- 🌱 I’m currently learning more about Docker
+- 👯 I’m looking to collaborate on Raspberry Pi projects
 <!--
 **LauRuns/lauruns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+## ⚙️ Skills
+
+```
+import { Skills } from 'laurens/skills';
+import { Interests } from 'laurens/interests;
+
+cont laurens = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Typescript", "Python", "SQL"],
+  askMeAbout: ["Webdev", "tech", "networking", "raspberry pi", "Apple"],
+  technologies: {
+    frontEnd: {
+      gen: ["HTML5", "CSS3", "SASS"],
+      js: ["Angular", "React"]
+    }
+    backEnd: {
+      js: ["Node", "Express", "Nestjs"],
+    },
+    mobileApp: {
+      js: ["ReactNative"]
+    },
+    devOps: ["Github", "Docker", "Nginx"],
+    databases: ["mongoDB", "MySQL", "PostgreSQL"],
+    architecture: ["Single page applications", "Progressive web applications"],
+    currentFocus: {
+      frontEnd: ["Single page applications", "Docker"],
+      backEnd: ["Nestjs"],
+      database: ["mongoDB"],
+      misc: ["Raspberry Pi", "Nginx", "Networking"]
+    }
+  }
+}
+
+```
