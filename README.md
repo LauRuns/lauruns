@@ -2,9 +2,9 @@
 
 ### I'm Laurens, a software developer from the Netherlands 🇳🇱
 
-- 🔭 I’m currently working on finishing my Computer Sience Degree
-- 🌱 I’m currently learning more about Linux, Docker and servers
-- 👯 I’m looking to collaborate on Raspberry Pi projects
+- 🔭 I’m currently working on a Angular - Nestjs - MongoDB application
+- 🌱 I’m currently learning more about Linux, Bash scripting, Docker and networking
+- 👯 I’m looking to collaborate on Raspberry Pi router projects
 <!--
 **LauRuns/lauruns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
